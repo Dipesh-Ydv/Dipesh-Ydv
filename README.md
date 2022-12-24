@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipesh-Ydv
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me dipeshyadav4444@gmail.com
 
 <!---
