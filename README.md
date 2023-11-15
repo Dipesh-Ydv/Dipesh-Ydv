@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipesh-Ydv
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me https://www.linkedin.com/in/dipesh-yadav-2b6571243/
 
