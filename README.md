@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipesh-Ydv
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/dipesh-yadav-2b6571243/
 
 <!---
