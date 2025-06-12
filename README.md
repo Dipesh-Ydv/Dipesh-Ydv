@@ -31,7 +31,7 @@ Here are a few projects I’ve worked on:
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-yadav-496739353/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-yadav-datascientist/)  
 - 📧 dipeshyadav4444@example.com  
 
 ---
