@@ -14,10 +14,10 @@
 
 Here are a few projects I’ve worked on:
 
-- 🔍 [**SMS Spam Detection**](#) – NLP-based classifier to identify spam messages using Scikit-learn.
-- 🎬 [**Movie Recommendation System**](#) – Content-based system using cosine similarity and TMDB data.
-- 🏪 [**Retail Store Transaction Analysis**](#) – Data cleaning, EDA, and visualization of sales data.
-- 💳 [**Credit Card Repayment Analysis**](#) – Aggregated customer repayment data with interactive dashboards in Power BI.
+- 🔍 [**SMS Spam Detection**](https://github.com/Dipesh-Ydv/SMS-Spam-Detector) – NLP-based classifier to identify spam messages using Scikit-learn.
+- 🎬 [**Movie Recommendation System**](https://github.com/Dipesh-Ydv/Movie-Recommendation-System) – Content-based system using cosine similarity and TMDB data.
+- 🏪 [**Retail Store Transaction Analysis**](https://github.com/Dipesh-Ydv/RetailTransaction-Data-Analysis-Python) – Data cleaning, EDA, and visualization of sales data.
+- 💳 [**Credit Card Repayment Analysis**](https://github.com/Dipesh-Ydv/CreditCard-Data-Analysis-Python) – Aggregated customer repayment data with interactive dashboards in Power BI.
 
 > 📌 *More projects coming soon...*
 
@@ -32,7 +32,7 @@ Here are a few projects I’ve worked on:
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dipesh-yadav-datascientist/)  
-- 📧 dipeshyadav4444@example.com  
+- 📧 dipeshyadav4444@gmail.com  
 
 ---
 
