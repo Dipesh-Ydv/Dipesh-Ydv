@@ -14,6 +14,7 @@
 
 Here are a few projects I’ve worked on:
 
+- 🔍 [**T20 Score Predictor**](https://github.com/Dipesh-Ydv/T20-Score-Predictor) –  Predicts T20 cricket match final scores in real-time using machine learning (XGBoost).
 - 🔍 [**SMS Spam Detection**](https://github.com/Dipesh-Ydv/SMS-Spam-Detector) – NLP-based classifier to identify spam messages using Scikit-learn.
 - 🎬 [**Movie Recommendation System**](https://github.com/Dipesh-Ydv/Movie-Recommendation-System) – Content-based system using cosine similarity and TMDB data.
 - 🏪 [**Retail Store Transaction Analysis**](https://github.com/Dipesh-Ydv/RetailTransaction-Data-Analysis-Python) – Data cleaning, EDA, and visualization of sales data.
