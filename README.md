@@ -24,7 +24,7 @@ Here are a few projects I’ve worked on:
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, SQL, HTML/CSS
+- **Languages:** Python, SQL, Java, Kotlin, C/C++, HTML/CSS
 - **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, NLTK
 - **Visualization:** Power BI, Excel, Matplotlib
 - **Tools:** Jupyter Notebook, VS Code, Git, GitHub
